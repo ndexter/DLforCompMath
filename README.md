@@ -15,10 +15,10 @@ This workshop is aimed at students in applied mathematics or related areas. It a
 
 Monday's tutorial will focus on basics of using the jupyter hub interface, commands exposed to the user through magic keywords, python and software packages for data science, and conclude with a simple model of function approximation using Google's tensorflow software package.
 
-- 10:00 am - 11:00 am: Lecture - "Introduction to Neural Networks”
+<!--- - 10:00 am - 11:00 am: Lecture - "Introduction to Neural Networks”
 - 11:00 am - 11:30 am: Coffee break
 - 11:30 am - 12:30 pm: Lecture - “Introduction to Neural Networks, continued”
-- 12:30 pm - 01:30 pm: Lunch break
+- 12:30 pm - 01:30 pm: Lunch break --->
 - 01:30 pm - 03:00 pm: Tutorial - “Introduction to Neural Networks with tensorflow”
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Introduction to Neural Networks with tensorflow, continued”
@@ -27,10 +27,10 @@ Monday's tutorial will focus on basics of using the jupyter hub interface, comma
 
 Tuesday's tutorial will provide hands-on experience with some of the more complicated aspects of deep learning, as featured in the lectures. The goal of today's session is to reinforce some of the concepts and related challenges covered in today's lectures through several examples of applying deep learning for tasks in data science.
 
-- 10:00 am - 11:00 am: Lecture - “From Neural Networks to Deep Learning”
+<!--- - 10:00 am - 11:00 am: Lecture - “From Neural Networks to Deep Learning”
 - 11:00 am - 11:30 am: Coffee break
 - 11:30 am - 12:30 pm: Lecture - “From Neural Networks to Deep Learning, continued”
-- 12:30 pm - 01:30 pm: Lunch break
+- 12:30 pm - 01:30 pm: Lunch break --->
 - 01:30 pm - 03:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part I”
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part I, continued”
@@ -39,10 +39,10 @@ Tuesday's tutorial will provide hands-on experience with some of the more compli
 
 Wednesday's tutorials will continue with the theme of Tuesdays, covering some of the more interesting aspects of approximation with deep neural networks, issues with convergence, and methods of regularization.
 
-- 10:00 am - 11:00 am: Lecture - “Approximation Theory for Neural Networks”
+<!--- - 10:00 am - 11:00 am: Lecture - “Approximation Theory for Neural Networks”
 - 11:00 am - 11:30 am: Coffee break
 - 11:30 am - 12:30 pm: Lecture - “Approximation Theory for Neural Networks, continued”
-- 12:30 pm - 01:30 pm: Lunch break
+- 12:30 pm - 01:30 pm: Lunch break --->
 - 01:30 pm - 03:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part II”
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part II, continued"
@@ -52,14 +52,16 @@ Wednesday's tutorials will continue with the theme of Tuesdays, covering some of
 Confrimed Speakers
 
 Talk 1 - Max Libbrecht (SFU), Understanding human gene regulation using deep neural networks.
+
 Talk 2 - Paul Tupper (SFU), Which Learning Algorithms Can Generalize Identity Effects to Novel Inputs?
+
 Talk 3 - Aaron Berk (UBC), A deep learning approach to retinal fundus imaging.
+
 Talk 4 - Ben Adcock (SFU), Instabilities in deep learning.
 
 - 09:30 am - 10:15 am: Talk 1
-- 10:15 am - 11:00 am: Talk 2
-- 11:00 am - 11:30 am: Coffee break
-- 11:30 am - 12:15 pm: Talk 3
-- 12:15 pm - 01:45 pm: Lunch break
+- 10:15 am - 10:45 am: Coffee break
+- 10:45 am - 11:30 am: Talk 2
+- 11:30 am - 01:45 pm: Lunch break
 - 01:45 pm - 02:30 pm: Talk 4
 - 02:30 pm - 03:15 pm: Talk 5
