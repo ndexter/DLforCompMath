@@ -23,6 +23,8 @@ Monday's tutorial will focus on basics of using the jupyter hub interface, comma
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Introduction to Neural Networks with tensorflow, continued”
 
+[Slides from Lecture 1](https://www.dropbox.com/s/mzobrtp513q18ps/Lecture%201.pdf?dl=0).
+
 ### Tuesday - Tutorial 2: "Data-driven Modelling with tensorflow, Part I"
 
 Tuesday's tutorial will provide hands-on experience with some of the more complicated aspects of deep learning, as featured in the lectures. The goal of today's session is to reinforce some of the concepts and related challenges covered in today's lectures through several examples of applying deep learning for tasks in data science.
