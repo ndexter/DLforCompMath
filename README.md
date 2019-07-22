@@ -6,7 +6,7 @@ The purpose of this summer school is to introduce students in applied and comput
 
 This workshop is aimed at students in applied mathematics or related areas. It assumes no prior knowledge of neural networks. Experience in calculus, linear algebra and analysis and numerical analysis are essential.
 
-<!---To check out this repository into your home directory on [https://hdda2019.syzygy.ca/jupyter](https://hdda2019.syzygy.ca/jupyter), please click the following [link](https://hdda2019.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/ndexter/DLforCompMath).--->
+To check out this repository into your home directory on [https://hdda2019.syzygy.ca/jupyter](https://hdda2019.syzygy.ca/jupyter), please click the following [link](https://hdda2019.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/ndexter/DLforCompMath).
 
 
 ## SCHEDULE
