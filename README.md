@@ -37,6 +37,8 @@ Tuesday's tutorial will provide hands-on experience with some of the more compli
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part I, continued”
 
+[Slides from Lecture 2](https://www.dropbox.com/s/ptsppsd8cckbagb/Lecture%202.pdf?dl=0).
+
 ### Wednesday - Tutorial 3: "Data-driven Modelling with tensorflow, Part II"
 
 Wednesday's tutorials will continue with the theme of Tuesdays, covering some of the more interesting aspects of approximation with deep neural networks, issues with convergence, and methods of regularization.
