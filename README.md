@@ -51,6 +51,8 @@ Wednesday's tutorials will continue with the theme of Tuesdays, covering some of
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part II, continued"
 
+[Slides from Lecture 3](https://www.dropbox.com/s/e6jisvlrl33xd4v/Lecture%203.pdf?dl=0).
+
 ### Thursday July 25 - Mini-workshop: Deep Learning
 
 Confrimed Speakers
