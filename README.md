@@ -23,7 +23,7 @@ Monday's tutorial will focus on basics of using the jupyter hub interface, comma
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Introduction to Neural Networks with tensorflow, continued”
 
-[Slides from Lecture 1](https://www.dropbox.com/s/mzobrtp513q18ps/Lecture%201.pdf?dl=0).
+[Slides from Lecture 1](https://www.dropbox.com/s/ke8iqpohf9bwpa5/Lecture%201.pdf?dl=0).
 
 ### Tuesday - Tutorial 2: "Data-driven Modelling with tensorflow, Part I"
 
@@ -37,7 +37,7 @@ Tuesday's tutorial will provide hands-on experience with some of the more compli
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part I, continued”
 
-[Slides from Lecture 2](https://www.dropbox.com/s/ptsppsd8cckbagb/Lecture%202.pdf?dl=0).
+[Slides from Lecture 2](https://www.dropbox.com/s/2h4pkmf3xu5tso1/Lecture%202.pdf?dl=0).
 
 ### Wednesday - Tutorial 3: "Data-driven Modelling with tensorflow, Part II"
 
@@ -51,7 +51,7 @@ Wednesday's tutorials will continue with the theme of Tuesdays, covering some of
 - 03:00 pm - 03:30 pm: Coffee break
 - 03:30 pm - 05:00 pm: Tutorial - “Data-driven Modelling with tensorflow, Part II, continued"
 
-[Slides from Lecture 3](https://www.dropbox.com/s/e6jisvlrl33xd4v/Lecture%203.pdf?dl=0).
+[Slides from Lecture 3](https://www.dropbox.com/s/s46wu8x5zp4msge/Lecture%203.pdf?dl=0).
 
 ### Thursday July 25 - Mini-workshop: Deep Learning
 
